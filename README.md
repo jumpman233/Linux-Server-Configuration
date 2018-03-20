@@ -18,7 +18,7 @@ ip: 13.115.182.45
 ## Software
 1. ufw
 2. postgresql(database)
-3. venv(python environment)
+3. virtualenv(python environment)
 4. libapache2-mod-wsgi(wsgi support)
 5. apache2(server)
 6. git
