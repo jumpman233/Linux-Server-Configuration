@@ -4,9 +4,6 @@ It's a deployed-practice at remote server
 ## url
 ip: 13.115.182.45
 [http://13.115.182.45](http://13.115.182.45)
-## SSH
-You can use following command to access server:
-```sudo ssh grader@13.115.182.45 -i {publickey_file_path} -p 2200```
 
 ## Confiuration
 1. add new user grader as a sudo accesser.
